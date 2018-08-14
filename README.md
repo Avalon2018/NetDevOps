@@ -1,2 +1,2 @@
 # NetDevOps
-Network Development Operations Research and Links to Sources
+Network Development Operations Research and Sources
